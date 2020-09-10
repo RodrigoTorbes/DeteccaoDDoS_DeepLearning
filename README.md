@@ -1,4 +1,4 @@
-# DETECÇÃO DE ATAQUES DDOS COM USO DE APRENDIZADO DE MÁQUINA E APRENDIZAGEM PROFUNDA
+# Detecção de Ataques DDoS com uso de Aprendizagem de Máquina e Aprendizagem Profunda
 
  Pós-Graduação - Especialização em Big Data, Data Science e Data Analytics
 
