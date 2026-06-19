@@ -58,7 +58,6 @@ Os testes foram realizados utilizando aceleração por hardware (GPU) no ambient
 ## 👥 Autores
 
 * **Rodrigo Horvath Torbes** – Unidade Acadêmica Online de Pesquisa e Educação, UNISINOS (Caxias do Sul, Brasil) — `horvathtorbes@gmail.com`
-* **Daniel Stefani Marcon** – Unidade Acadêmica Online de Pesquisa e Educação, UNISINOS (São Leopoldo, Brasil) — `danielsm@unisinos.br`
 
 ---
 
