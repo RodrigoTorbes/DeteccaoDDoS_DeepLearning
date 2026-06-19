@@ -4,8 +4,6 @@ Este repositório contém a implementação de um framework computacional otimiz
 
 O modelo foi treinado e validado utilizando o dataset de referência internacional **CICDDoS2019**, alcançando métricas de assertividade robustas entre **98% e 99%**.
 
-Este trabalho foi baseado no artigo "Rodrigo-Torbes_IEEE_DDoS_LSTM.pdf".
-
 ---
 
 ## 🚀 Funcionalidades e Pipeline
